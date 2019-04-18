@@ -17,3 +17,6 @@ Ensure you have UnmanagedExports installed and are building for your target arch
 3. `sc.exe \\COMPUTER start SessionEnv`
 
 Execution should have occurred adding a new user "demo".
+
+## Blog Details
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
